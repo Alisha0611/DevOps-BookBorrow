@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "gFBJr0lc9noWHW5eoiOQXmZN2UXzLdCGmYufSUN3KjdfLN4uNnBJwXh7VmazyCAOKS0+skANuFvdcYSg2UMCAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alishasrivastava\\Desktop\\dotnetproject\\dotnetproject\\dotnetproject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alishasrivastava\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\alishasrivastava\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\alishasrivastava\\.nuget\\packages\\mstest.testframework\\3.3.1\\mstest.testframework.3.3.1.nupkg.sha512",
+    "C:\\Users\\alishasrivastava\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\alishasrivastava\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\alishasrivastava\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\alishasrivastava\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
